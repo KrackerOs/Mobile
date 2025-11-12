@@ -1,3 +1,3 @@
 function app () {
-  const [menssage, setMessage]
+  const [menssage, setMessage] = useState('Olá, Mundo')
 }  
